@@ -29,7 +29,7 @@ python3 gui1.py
 2. The device will play the 8 beats on loop
 3. As the user changes a note, the output sound dynamically adjusts, providing an opportunity to experiment with distinct sounds and emotions through varied note selection.
 
-Initial UI
+## Initial UI
 ![image](https://user-images.githubusercontent.com/66110557/217150412-3e8989d6-8caf-4e43-b34e-75b3ae3e0eb7.png)
 
 Please turn on the audio when viewing the video. 
@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/66110557/217153313-95201106-a266-4392-
 ![UI design](https://user-images.githubusercontent.com/66110557/218710125-87c3af63-10d7-4a1c-91f9-60f5a896dd88.png)
 
 
-Western notes equivalent to Indian notes
+## Western notes equivalent to Indian notes
 ![image](https://user-images.githubusercontent.com/66110557/218710717-4f6628bc-22e3-46a8-bb62-825c7c2cba5b.png)
 
 
