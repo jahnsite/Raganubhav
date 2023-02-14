@@ -47,7 +47,7 @@ https://user-images.githubusercontent.com/66110557/217153313-95201106-a266-4392-
 
 
 Western notes equivalent to Indian notes
-![Notes-of-Hindustani-music-and-equivalent-Western-music-notes_Q640](https://user-images.githubusercontent.com/66110557/218709946-aef51bb0-46bd-4357-8aa2-d2941bbf7c74.jpeg)
+![image](https://user-images.githubusercontent.com/66110557/218710717-4f6628bc-22e3-46a8-bb62-825c7c2cba5b.png)
 
 
 
