@@ -38,6 +38,16 @@ Please turn on the audio when viewing the video.
 https://user-images.githubusercontent.com/66110557/217153313-95201106-a266-4392-8db8-015af8635f53.mp4
 
 
+## Hardware being used
+![Hardware being used](https://user-images.githubusercontent.com/66110557/218710067-640f6cad-1161-472f-8729-78b241b6885b.png)
+
+
+## Interface Design
+![UI design](https://user-images.githubusercontent.com/66110557/218710125-87c3af63-10d7-4a1c-91f9-60f5a896dd88.png)
+
+
+Western notes equivalent to Indian notes
+![Notes-of-Hindustani-music-and-equivalent-Western-music-notes_Q640](https://user-images.githubusercontent.com/66110557/218709946-aef51bb0-46bd-4357-8aa2-d2941bbf7c74.jpeg)
 
 
 
